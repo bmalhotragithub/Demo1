@@ -1,4 +1,4 @@
-Demo1:
+test1:
   image: dockercloud/Demo1
   ports:
     - "80:1010"

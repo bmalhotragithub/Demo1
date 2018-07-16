@@ -1,0 +1,9 @@
+ {
+    "loadBalancers": [
+        {
+            "loadBalancerName": "Ecs-lb-poc",
+            "containerName": "astro1",
+            "containerPort": 1040
+        }
+    ]
+}

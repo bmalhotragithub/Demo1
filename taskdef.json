@@ -1,16 +1,16 @@
 {
-    "family": "astro1",
+    "family": "clouds",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
-            "name": "astro1",
+            "name": "clouds",
             "cpu": 10,
             "memory": 256,
             "essential": true,
             "portMappings": [
                 {
-                    "containerPort": 1040,
-                    "hostPort": 1040
+                    "containerPort": 1050,
+                    "hostPort": 1050
                 }
             ]
         }

@@ -1,4 +1,4 @@
-astro1:
+clouds:
   image: dockercloud/Demo1
   ports:
-    - "80:1040"
+    - "80:1050"

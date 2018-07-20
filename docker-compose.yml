@@ -1,4 +1,4 @@
-astro1:
+clouds:
   build: .
   ports:
-    - "80:1040"
+    - "80:1050"
